@@ -1,2 +1,0 @@
-# NewsApp
-finalproject for femtech.
